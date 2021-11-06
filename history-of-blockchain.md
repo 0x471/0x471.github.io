@@ -27,4 +27,6 @@ Bitcoin is a system where everyone can partipicate transactions happened securel
 
 ## How Blockchain has Evolved
 
-Blockchain 1.0 is all about cryptocurrency. This includes cryptocurrency blockchains like Bitcoin, Ethereum which are most popular. Since the popularity of Bitcoin grew, we have seen a flux of cryptocurrencies emerge as a result. Blockchain 2.0 is about **smart contracts**. For cryptocurrencies like Ethereum, you can program agreements or contracts between parties. 3.0 is decentralized applications or dApps for short. dApps are built around smart contracts and create an interactable interface. Blockchain 4.0 will be all about making blockchain usable in multiple industries 
+Blockchain 1.0 is all about cryptocurrency. This includes cryptocurrency blockchains like Bitcoin, Ethereum which are most popular. Since the popularity of Bitcoin grew, we have seen a flux of cryptocurrencies emerge as a result. Blockchain 2.0 is about **smart contracts**. For cryptocurrencies like Ethereum, you can program agreements or contracts between parties. 3.0 is decentralized applications or dApps for short. dApps are built around smart contracts and create an interactable interface. Blockchain 4.0 will be all about making blockchain usable in multiple industries.
+
+Reference: https://youtu.be/dz2Lmb15LTY 
