@@ -1,6 +1,6 @@
-### 0x471
+# 0x471
 
-### Blockchain
+## Blockchain
 [History of Blockchain](history-of-blockchain)
 
 ### Contact
