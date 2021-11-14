@@ -36,15 +36,16 @@ Hybrid blockchains are also controlled by an organization or a group. A level of
 
 # References
 
-[1] https://www.foley.com/en/insights/publications/2021/08/types-of-blockchain-public-private-between
+[1] [https://www.foley.com/en/insights/publications/2021/08/types-of-blockchain-public-private-between](https://www.foley.com/en/insights/publications/2021/08/types-of-blockchain-public-private-between)
 
-[2] https://101blockchains.com/types-of-blockchain/
+[2] [https://101blockchains.com/types-of-blockchain/](https://101blockchains.com/types-of-blockchain/)
 
-[3] https://data-flair.training/blogs/types-of-blockchain/
+[3] [https://data-flair.training/blogs/types-of-blockchain/
+](https://data-flair.training/blogs/types-of-blockchain/)
 
-[4] https://searchcio.techtarget.com/feature/What-are-the-4-different-types-of-blockchain-technology
+[4] [https://searchcio.techtarget.com/feature/What-are-the-4-different-types-of-blockchain-technology](https://searchcio.techtarget.com/feature/What-are-the-4-different-types-of-blockchain-technology)
 
-[5] https://youtu.be/Qnf8eDQvNbU
+[5] [https://youtu.be/Qnf8eDQvNbU](https://youtu.be/Qnf8eDQvNbU)
 
 
 
