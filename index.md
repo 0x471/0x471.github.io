@@ -1,7 +1,7 @@
 # 0x471
 
 ## Blockchain
-[Types of Blockchains](types-of-blockchain.md)
+[Types of Blockchains](types-of-blockchains.md)
 
 ### Contact
 [Mail](mailto:0x471@protonmail.com)
