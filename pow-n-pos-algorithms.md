@@ -6,7 +6,8 @@ Bitcoin uses the PoW algorithm to reach consensus between nodes. Satoshi Nakamat
         
 PoW algorithm gives more rewards to people with better and more equipment. Hashrate is computational power that is being used to mine and process transactions. Hashrate and chance of creating the next block, recieving the mining reward is directly propotional. In addition, to increase their chances miners come together and combine their hashing power, hashrate. 
 
-As a summary, PoW cause miners to use gigantic amounts of energy and miner pools make blockchain more centralized which is not good for de centralization. To solve these issues, a new consensus algorithm that is alternative to PoW algorithm was proposed which is called as "Proof of Stake" algorithm.
+As a summary, PoW cause miners to use gigantic amounts of energy and miner pools make blockchain more centralized which is not good for de centralization. To solve these issues, a new consensus algorithm that is alternative to PoW algorithm was proposed which is called as "Proof of Stake" algorithm. 
+
 
 ## Proof of Stake (PoS) Algorithm
 
