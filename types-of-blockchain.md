@@ -1,6 +1,6 @@
-# Types of Blockchains
+# Types of Blockchain
 
-There are four types of blockchain. These are:
+There are four types of a blockchain. These are:
 - Public 
 - Private
 - Hybrid
@@ -28,11 +28,7 @@ Hybrid blockchains are also controlled by an organization or a group. A level of
 
 ## Consortium/Federated Blockchains
 
- In a consortium blockchain, some aspects of the organizations/group are made public, while others remain private. 
- 
- A consortium blockchain is managed by more than one organisation or group so it is still semi-decentralized. 
- 
- There are validator nodes and member nodes in consortium blockchains. Validator nodes can validate transactions, initiate/recieve transactions. Member nodes can recieve/initiate transactions.
+ In a consortium blockchain, some aspects of the organizations/group are made public, while others remain private. A consortium blockchain is managed by more than one organisation or group so it is still semi-decentralized. There are validator nodes and member nodes in consortium blockchains. Validator nodes can validate transactions, initiate/recieve transactions. Member nodes can recieve/initiate transactions.
 
 # References
 
