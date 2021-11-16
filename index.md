@@ -1,7 +1,7 @@
 # 0x471
 
 ## Blockchain
-[Types of Blockchains](types-of-blockchains.md) *14.11.2021*
+[Types of Blockchains](types-of-blockchains.md) *14.11.2021*  
 [PoW & PoS Algorithms](pow-n-pos-algorithms.md) *17.11.2021*
 
 ### Contact
