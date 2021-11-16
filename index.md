@@ -3,7 +3,7 @@
 ## Blockchain
 [PoW & PoS Algorithms](pow-n-pos-algorithms.md) *17.11.2021*  
   
-[Types of Blockchains](types-of-blockchain.md) *14.11.2021*  
+[Types of Blockchain](types-of-blockchain.md) *14.11.2021*  
   
   
 # Contact
