@@ -1,4 +1,4 @@
-# Types of Blockchain
+# Types of Blockchains
 
 There are four types of a blockchain. These are:
 - Public 
