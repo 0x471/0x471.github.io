@@ -71,3 +71,42 @@ li {
   white-space: nowrap;
 }
 
+@media (max-width: 600px) {
+  h1 {
+    font-size: 20px;
+  }
+
+  h3 {
+    font-size: 12px;
+  }
+
+  h4 {
+    font-size: 16px;
+  }
+
+  ul {
+    margin-bottom: 10px;
+  }
+
+  #cal {
+    border-spacing: 0;
+  }
+
+  #cal tr {
+    display: block;
+    margin-bottom: 20px;
+  }
+
+  #cal td {
+    display: block;
+    padding: 0;
+  }
+
+  #cal .cd,
+  #cal .title,
+  #cal .cdt {
+    padding: 5px 0;
+    white-space: normal;
+    overflow-wrap: break-word;
+  }
+}
