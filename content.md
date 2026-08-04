@@ -22,15 +22,11 @@ I mostly ship things under [TrionLabs](https://github.com/trionlabs).
 
 ## Also
 
-I joined [YC Startup School 2026](https://events.ycombinator.com/startup-school-2026) in San Francisco, sponsored by [212.vc](https://212.vc/).
-
-I was a [Self Protocol](https://self.xyz/) Fellow working on digital ID infrastructure across CA driver's license proofs, zkJWT attestations, PQXDH for TEE provers, and Turkish / Emirates ID support.
-
-I was a [LambdaClass](https://lambdaclass.com/) Fellow working on applied cryptography and zero-knowledge proofs.
-
-I served as a Committee Member for [IEEE COMPSAC BlockDLT 2025 and 2026](https://ieeecompsac.computer.org/2026/2nd-ieee-international-workshop-on-blockchain-and-distributed-ledger-technologies-blockdlt-2026/).
-
-In 2022, I was 1 of 15 high school students selected for a one-year cybersecurity program by the Digital Transformation Office of the Presidency of Turkey.
+- I joined [YC Startup School 2026](https://events.ycombinator.com/startup-school-2026) in San Francisco, sponsored by [212.vc](https://212.vc/).
+- I was a [Self Protocol](https://self.xyz/) Fellow working on digital ID infrastructure across CA driver's license proofs, zkJWT attestations, PQXDH for TEE provers, and Turkish / Emirates ID support.
+- I was a [LambdaClass](https://lambdaclass.com/) Fellow working on applied cryptography and zero-knowledge proofs.
+- I served as a Committee Member for [IEEE COMPSAC BlockDLT 2025 and 2026](https://ieeecompsac.computer.org/2026/2nd-ieee-international-workshop-on-blockchain-and-distributed-ledger-technologies-blockdlt-2026/).
+- In 2022, I was 1 of 15 high school students selected for a one-year cybersecurity program by the Digital Transformation Office of the Presidency of Turkey.
 
 ## Personally
 
